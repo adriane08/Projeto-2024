@@ -44,7 +44,8 @@ body {
 
 .escola-titulo{
     padding: 24px 0;
-    background-color: rgb(157, 228, 250);
+    background-color:linear-gradient(#46a1cf,#3ba3cf);
+    border-radius: 10px;
 }
 
 .estudante{
