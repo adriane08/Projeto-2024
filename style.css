@@ -69,6 +69,7 @@ body {
 .estudante-titulo{
     text-align: center;
     padding: 50px 0;
+    background-color:linear-gradient(#46a1cf,#3ba3cf);
 }
 
 .estudante-todos{
